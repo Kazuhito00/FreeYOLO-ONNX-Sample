@@ -1,5 +1,6 @@
 # FreeYOLO-ONNX-Sample
 [FreeYOLO](https://github.com/yjh0410/FreeYOLO)のPythonでのONNX推論サンプルです。<br>
+ONNXに変換したモデルも同梱しています。変換自体を試したい方は[FreeYOLO_Convert2ONNX.ipynb](FreeYOLO_Convert2ONNX.ipynb)を使用ください。<br>
 
 https://user-images.githubusercontent.com/37477845/207242092-f6ddd4bc-4fa9-43f6-aa70-ceeeca4181d4.mp4
 
