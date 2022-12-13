@@ -32,7 +32,7 @@ def get_args():
     parser.add_argument(
         '--nms_th',
         type=float,
-        default=0.5,
+        default=0.3,
         help='NMS IoU threshold',
     )
 
